@@ -1,12 +1,12 @@
 {
-    "name": "cornford/googlmapper",
+    "name": "mapis/gmapper",
     "description": "An easy way to integrate Google Maps with Laravel.",
     "keywords": ["laravel", "google", "maps", "mapping", "streetview", "map"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Bradley Cornford",
-            "email": "me@bradleycornford.co.uk"
+            "name": "sanel sumic",
+            "email": "me@sanel.co.uk"
         }
     ],
     "require": {
